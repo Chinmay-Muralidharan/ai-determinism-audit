@@ -1,5 +1,3 @@
-AI Determinism Audit: Reproducibility Framework
-
 # AI Determinism Audit: Reproducibility Framework
 
 **Researcher:** Chinmay Muralidharan
